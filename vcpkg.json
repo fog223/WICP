@@ -1,0 +1,14 @@
+{
+  "name": "wicp",
+  "version-string": "1.0.0",
+  "builtin-baseline": "63d08e949d3ad2ec5017039f7b62b4990490f49c",
+  "dependencies": [
+    {
+      "name": "pcl",
+      "features": [
+        "visualization"
+      ]
+    },
+    "spdlog"
+  ]
+}
